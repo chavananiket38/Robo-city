@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Robo-city/static/css/main.5e94a63a.css",
+    "main.js": "/Robo-city/static/js/main.086e2eb2.js",
+    "static/js/787.32032a02.chunk.js": "/Robo-city/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/Robo-city/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Robo-city/index.html",
+    "main.5e94a63a.css.map": "/Robo-city/static/css/main.5e94a63a.css.map",
+    "main.086e2eb2.js.map": "/Robo-city/static/js/main.086e2eb2.js.map",
+    "787.32032a02.chunk.js.map": "/Robo-city/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e94a63a.css",
+    "static/js/main.086e2eb2.js"
+  ]
+}
