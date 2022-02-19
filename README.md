@@ -1,6 +1,6 @@
-# Project live website link
+# Live demo of Project
 
-Live Project Link : [Robo-city](https://chavananiket38.github.io/Robo-city/)
+Project Link : [Robo-city](https://chavananiket38.github.io/Robo-city/)
 
 # Getting Started with Create React App
 
